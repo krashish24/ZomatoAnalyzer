@@ -1,4 +1,4 @@
-# Zomato_SQL_Analytics
+# ZomatoAnalyzer
 Here ,I have done Data analysis on Zomato Dataset (food delivery app) with SQL database(postgres).  
 
 You can find the code attached below -
